@@ -47,7 +47,7 @@ window.onload = () => {
       content: {
         title: "이희종 ♥ 윤수정의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/vnPHLvr.png",
+        imageUrl: "https://i.imgur.com/Qb6LKBK.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
